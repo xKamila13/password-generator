@@ -4,8 +4,7 @@ A simple and clean password generator desktop app built with Python and CustomTk
 
 ## Screenshot
 
-<img width="784" height="1172" alt="image" src="https://github.com/user-attachments/assets/55fb36ff-cc4f-4a32-929f-b31af324cd90" />
-
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/55fb36ff-cc4f-4a32-929f-b31af324cd90" />
 
 ## Features
 
